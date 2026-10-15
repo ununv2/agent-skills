@@ -41,7 +41,7 @@ Before you draft, work out:
 
 ### 3. Write the note
 
-Use the structure below. It is a default, not a cage: rename, merge or drop sections to fit the source (a talk about careers doesn't need a config example; a tool tutorial doesn't need an analogy). What must survive is the why, the how, the flow, the production reality, and examples where an idea is hard.
+Use the structure below. It is a default, not a cage: rename, merge or drop sections to fit the source (a talk about careers doesn't need a config example; a tool tutorial doesn't need an analogy). What must always survive is the TL;DR, the why, the how, the flow, the production reality, and examples where an idea is hard.
 
 ```markdown
 ---
@@ -56,6 +56,11 @@ related: ["[[Existing Note]]"]
 ---
 
 # <Topic>: <what it teaches>
+
+## TL;DR
+3-5 bullets someone could read in 30 seconds and walk away with the gist:
+the problem, the answer the source gives, the key steps or rules, and the one
+thing to remember or do at work. Concrete, no teasers ("the video explains...").
 
 ## 0. Read this first
 - **What is it?** 2-3 plain sentences.
