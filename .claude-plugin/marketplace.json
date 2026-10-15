@@ -1,0 +1,81 @@
+{
+  "name": "unun-skills",
+  "owner": {
+    "name": "unun"
+  },
+  "plugins": [
+    {
+      "name": "design",
+      "description": "Design skills",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/design/codebase-design",
+        "./skills/design/design-an-interface",
+        "./skills/design/domain-model",
+        "./skills/design/improve-codebase-architecture",
+        "./skills/design/prototype",
+        "./skills/design/responsive-design",
+        "./skills/design/ui-design-system"
+      ]
+    },
+    {
+      "name": "discovery",
+      "description": "Discovery skills",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/discovery/ai-product-strategy",
+        "./skills/discovery/grill-me",
+        "./skills/discovery/grill-with-docs",
+        "./skills/discovery/grilling",
+        "./skills/discovery/research",
+        "./skills/discovery/research-recommend",
+        "./skills/discovery/session-bootstrap",
+        "./skills/discovery/teach",
+        "./skills/discovery/to-questionnaire",
+        "./skills/discovery/zoom-out"
+      ]
+    },
+    {
+      "name": "planning",
+      "description": "Planning skills",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/planning/feature-decomposition-tool",
+        "./skills/planning/to-spec",
+        "./skills/planning/user-story",
+        "./skills/planning/wayfinder"
+      ]
+    },
+    {
+      "name": "implementation",
+      "description": "Implementation skills",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/implementation/architect-review",
+        "./skills/implementation/ask-matt",
+        "./skills/implementation/diagnosing-bugs",
+        "./skills/implementation/find-skills",
+        "./skills/implementation/frontend-runtime-debugging",
+        "./skills/implementation/handoff",
+        "./skills/implementation/resolving-merge-conflicts",
+        "./skills/implementation/server-operations",
+        "./skills/implementation/tdd",
+        "./skills/implementation/wait-what",
+        "./skills/implementation/writing-for-agents"
+      ]
+    },
+    {
+      "name": "meta",
+      "description": "Meta skills",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/meta/skill-creator"
+      ]
+    }
+  ]
+}
