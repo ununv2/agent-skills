@@ -10,13 +10,15 @@
       "source": "./",
       "strict": false,
       "skills": [
+        "./skills/design/apple-design",
         "./skills/design/codebase-design",
         "./skills/design/design-an-interface",
         "./skills/design/domain-model",
         "./skills/design/improve-codebase-architecture",
         "./skills/design/prototype",
         "./skills/design/responsive-design",
-        "./skills/design/ui-design-system"
+        "./skills/design/ui-design-system",
+        "./skills/design/ui-ux-pro-max"
       ]
     },
     {
@@ -67,6 +69,33 @@
         "./skills/implementation/tdd",
         "./skills/implementation/wait-what",
         "./skills/implementation/writing-for-agents"
+      ]
+    },
+    {
+      "name": "workflow",
+      "description": "Feature workflow skills",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/workflow/feature",
+        "./skills/workflow/feature-build",
+        "./skills/workflow/feature-design",
+        "./skills/workflow/feature-discover",
+        "./skills/workflow/feature-plan",
+        "./skills/workflow/feature-retro",
+        "./skills/workflow/feature-review"
+      ]
+    },
+    {
+      "name": "review",
+      "description": "Review skills",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/review/derive-e2e-coverage",
+        "./skills/review/retro",
+        "./skills/review/verification-before-completion",
+        "./skills/review/visual-verification"
       ]
     },
     {
