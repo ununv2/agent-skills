@@ -59,3 +59,4 @@ Each category is its own plugin. Add new skills to its list in `.claude-plugin/m
 - Copied from my claude.ai synced skills (several originally from [mattpocock/skills](https://github.com/mattpocock/skills)).
 - `codebase-design`, `design-an-interface`, `domain-model`, `improve-codebase-architecture`, `grill-with-docs`, `research`, `research-recommend`, `session-bootstrap`, `zoom-out`, `architect-review`, `diagnosing-bugs`, `frontend-runtime-debugging`, `resolving-merge-conflicts`, `server-operations`, `tdd`, `skill-creator`, `verification-before-completion`, `visual-verification`, `derive-e2e-coverage`: from [zentetsukenz/agent](https://github.com/zentetsukenz/agent/tree/main/SKILLS) @ `4d6d5b2`.
 - `retro`: from [mattpocock/skills](https://github.com/mattpocock/skills) @ `49dd158`.
+- `asd-ste100`: from [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) @ `ffc6618` (MIT).

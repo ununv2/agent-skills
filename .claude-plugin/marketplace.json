@@ -59,6 +59,7 @@
       "strict": false,
       "skills": [
         "./skills/implementation/architect-review",
+        "./skills/implementation/asd-ste100",
         "./skills/implementation/ask-matt",
         "./skills/implementation/diagnosing-bugs",
         "./skills/implementation/find-skills",
